@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/lovehzh?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 就职于阿里巴巴集团天猫事业部，前端开发工程师，花名川轼。
 
@@ -32,8 +32,8 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
+* GitHub：[Gaohaoyang](https://github.com/lovehzh)
+* email：he-zhenhua@126.com
 * [Weibo](http://weibo.com/3115521wh)
 * [知乎](https://www.zhihu.com/people/gaohaoyang)
 * [Facebook](https://www.facebook.com/gaohaoyang.water)
