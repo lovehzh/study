@@ -14,7 +14,7 @@ url: "https://lovehzh.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: gaohaoyang126
+#twitter_username: gaohaoyang126
 #facebook_username: gaohaoyang.water
 github_username:  zhenhua.he
 email: he-zhenhua@126.com
