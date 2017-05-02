@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Jekyll 搭建静态博客"
-date:   2015-02-15 22:14:54
-categories: jekyll
-tags: jekyll RubyGems
+title:  "Java Lambda"
+date:   2017-05-01 10:51:30
+categories: java
+tags: Lambda
 ---
 
 * content
