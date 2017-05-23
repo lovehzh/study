@@ -4,6 +4,7 @@ title:  "Python网络爬虫(1)：在爬之前应该了解的知识"
 date:   2017-05-20 14:37:30
 categories: python
 tags: scrapy spiders python
+excerpt: 1.网络爬虫是做什么的？2.学习爬虫需要什么知识准备？3.我是小白，有什么好的学习路径？4.怎么学爬虫最容易成功？
 ---
 
 * content
